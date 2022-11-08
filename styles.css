@@ -1,0 +1,26 @@
+.row {
+    margin: 18px;
+}
+.container-fluid {
+    border: solid 1px rgba(128, 128, 128, 0.295);
+    margin: auto;
+    width: 90%;
+    border-radius: 1%;
+    margin-top: 2%;
+}
+.header {
+    border-bottom: solid 1px rgba(128, 128, 128, 0.295);
+    margin: 20px;
+}
+.alert-danger {
+    margin-top: 2%;
+    margin: 20px;
+}
+.container-radios {
+    background: grey;
+    padding: 5px;
+    border-radius: 5px;
+}
+.buttons {
+    margin-left: 88%;
+}
